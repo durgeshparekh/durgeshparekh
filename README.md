@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durgeshparekh
 - 👀 I’m interested in tech stuff
-- 🌱 I’m currently learning Flutter
+- 🌱 Software Team Lead @SmartNode
 - 📫 You can reach me by dropping a mail on durgeshparekh381@gmail.com
 
 <!---
