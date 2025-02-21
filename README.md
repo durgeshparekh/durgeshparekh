@@ -18,12 +18,12 @@
 - 🌍 Traveling and experiencing different cultures
 
 ## 📫 Contact:
-- LinkedIn: [Durgesh Parekh](https://www.linkedin.com/in/durgeshparekh)
-- Twitter: [@durgeshparekh](https://twitter.com/durgeshparekh)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/durgeshparekh)
+- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://x.com/DurgeshParekh)
+
 
 ## 📊 GitHub Stats:
 ![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgeshparekh&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshparekh&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshparekh&layout=compact&theme=radical)
 
 
