@@ -1,4 +1,5 @@
 💫 About Me
+
 Hi, I’m Durgesh Parekh – a tech enthusiast and product developer passionate about helping startups bring their software ideas to life.
 
 I’m experienced in full-cycle product development, from idea validation and feature research to scalable implementation and launch. I work closely with early-stage companies to define product roadmaps, architect MVPs, and ship robust applications efficiently. Beyond development, I also enjoy mentoring developers and building agile, high-performing tech teams.
