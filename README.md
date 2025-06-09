@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @durgeshparekh
 - 👀 I’m interested in tech stuff
-- 🌱 Software Team Lead @SmartNode
 - 💻 Product Developer helping startups build software products.
 - 📫 You can reach me by dropping a mail on durgeshparekh381@gmail.com
 
