@@ -1,22 +1,24 @@
-# 💫 About Me:
-- 👋 Hi, I’m @durgeshparekh
-- 👀 I’m interested in tech stuff
-- 💻 Product Developer helping startups build software products.
-- 📫 You can reach me by dropping a mail on durgeshparekh381@gmail.com
+💫 About Me
+Hi, I’m Durgesh Parekh – a tech enthusiast and product developer passionate about helping startups bring their software ideas to life.
+
+I’m experienced in full-cycle product development, from idea validation and feature research to scalable implementation and launch. I work closely with early-stage companies to define product roadmaps, architect MVPs, and ship robust applications efficiently. Beyond development, I also enjoy mentoring developers and building agile, high-performing tech teams.
 
 
-## 🌟 Personal Details:
-- 💼 Experience: Over 7 years of experience in software development and team leadership
-- 🛠️ Skills: 
-  - Programming Languages: JavaScript, Python, Java, Dart
-  - Frameworks: Node.js, Flutter
-  - Tools: Git, Docker, Jenkins, AWS, Firebase
+🧑‍💻 Technical Expertise
+
+Tech Stack:
+	•	Frontend: Flutter (Mobile & Web)
+	•	Backend: Node.js, TypeScript
+	•	Databases: MongoDB, MySQL
+	•	Caching: Redis
+	•	Serverless Architecture: AWS Lambda
+	•	Infrastructure: Focused on scalability, performance, and cost-efficiency
 
 
-## 🚀 Interests:
-- 📖 Reading about the latest trends in technology and software development
-- 🎮 Gaming and exploring new game development technologies
-- 🌍 Traveling and experiencing different cultures
+🌟 Personal Interests
+	•	📚 Exploring the latest in tech and software engineering
+	•	🎮 Gaming & experimenting with game dev technologies
+	•	✈️ Traveling and immersing in diverse cultures
 
 
 ## 📫 Contact:
