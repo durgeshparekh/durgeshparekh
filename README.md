@@ -7,18 +7,18 @@ I’m experienced in full-cycle product development, from idea validation and fe
 🧑‍💻 Technical Expertise
 
 Tech Stack:
-	•	Frontend: Flutter (Mobile & Web)
-	•	Backend: Node.js, TypeScript
-	•	Databases: MongoDB, MySQL
-	•	Caching: Redis
-	•	Serverless Architecture: AWS Lambda
-	•	Infrastructure: Focused on scalability, performance, and cost-efficiency
+• Frontend: Flutter (Mobile & Web)
+• Backend: Node.js, TypeScript
+• Databases: MongoDB, MySQL
+• Caching: Redis
+• Serverless Architecture: AWS Lambda
+• Infrastructure: Focused on scalability, performance, and cost-efficiency
 
 
 🌟 Personal Interests
-	•	📚 Exploring the latest in tech and software engineering
-	•	🎮 Gaming & experimenting with game dev technologies
-	•	✈️ Traveling and immersing in diverse cultures
+• 📚 Exploring the latest in tech and software engineering
+• 🎮 Gaming & experimenting with game dev technologies
+• ✈️ Traveling and immersing in diverse cultures
 
 
 ## 📫 Contact:
