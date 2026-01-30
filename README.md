@@ -1,56 +1,65 @@
-**💫 About Me**
+## 💫 About Me
 
-Hi, I’m Durgesh Parekh — a Product Engineer & AI-focused Tech Consultant helping founders turn ideas into scalable, production-ready products.
+Hi, I’m **Durgesh Parekh** — a **Product Engineer** focused on building **AI-enabled products** that are practical, scalable, and user-driven.
 
-I work closely with early-stage and growth-stage startups, often as an extension of the founding team. My focus is on building AI-enabled products, defining the right MVP scope, and making pragmatic technical decisions that balance speed, cost, and long-term scalability.
+I work closely with founders as a hands-on product and engineering partner, helping turn ideas into well-defined products. My strength is operating at the intersection of **product thinking, system design, and execution** — translating real user problems into clear flows, solid architecture, and reliable software.
 
-I’ve helped founders go from 0 → 1, clean up messy systems, and evolve MVPs into stable platforms. I care deeply about product clarity—understanding the user problem, choosing the right level of AI (not over-engineering), and shipping something that actually delivers value.
+I use AI where it genuinely adds value: automating workflows, improving decision-making, reducing manual effort, and accelerating iteration — not adding AI just for buzz. Most of my work involves MVPs, internal tools, and evolving early products into stable, scalable systems.
 
-If you’re a founder looking for someone who can think product, design systems, and execute end-to-end, I’m probably a good fit.
+---
 
-⸻
+## 🧠 What I Do as a Product Engineer
 
-**🧠 What I Help Founders With**
-	•	AI-powered MVPs & product prototyping
-	•	Turning vague ideas into clear user flows & features
-	•	Backend systems for AI workflows (APIs, jobs, data pipelines)
-	•	Scaling products without burning infrastructure budget
-	•	Acting as a technical thought partner during early decisions
+- Convert product ideas into clear user journeys and features  
+- Design backend systems that support AI workflows reliably  
+- Build MVPs that ship fast but remain easy to evolve  
+- Balance speed, scalability, and infrastructure cost  
+- Act as a technical sounding board for founders during key decisions  
 
-⸻
+---
 
-**🧑‍💻 Technical Expertise**
+## 🧑‍💻 Technical & Product Expertise
 
-Product & AI Engineering
-	•	AI feature integration (LLM-based workflows, automation, internal tools)
-	•	API design, system architecture, and performance optimization
-	•	Cost-aware and scalable infrastructure design
+### Product Engineering
+- AI-assisted features (LLM workflows, automation, decision support)
+- API-first backend design for scalable products
+- Event-driven and microservice-oriented systems
+- Performance, reliability, and cost optimization
 
-Tech Stack
-	•	Frontend: Flutter (Mobile & Web)
-	•	Backend: Node.js, TypeScript
-	•	Databases: MongoDB, MySQL
-	•	Caching & Queues: Redis
-	•	Cloud & Serverless: AWS, Lambda
-	•	Architecture: Event-driven systems, scalable APIs
+### Tech Stack
+- **Frontend:** Flutter (Mobile & Web)  
+- **Backend:** Node.js, TypeScript  
+- **Databases:** MongoDB, MySQL  
+- **Caching & Queues:** Redis  
+- **Cloud & Serverless:** AWS, Lambda  
 
-⸻
+---
 
-**🌟 Beyond Work**
-	•	Exploring AI products and startup use-cases
-	•	Learning how founders make product trade-offs under constraints
-	•	Travel, tech discussions, and building things that last
+## 🌟 How I Work
 
-⸻
+I usually work directly with founders or small teams, taking ownership of both **product clarity and technical execution**. I focus on building products users understand, trust, and continue to use — not just shipping features.
 
-**📫 Work With Me**
+---
 
-If you’re:
-	•	Building an AI-first or AI-assisted product
-	•	Looking for a freelance/contract Product Engineer
-	•	A founder who wants a hands-on technical partner
+## 🤝 Open to Collaboration
 
-**Feel free to reach out 👇**
-• LinkedIn: https://www.linkedin.com/in/durgesh-parekh/￼ 
-• Twitter/X: https://x.com/DurgeshParekh
-⸻
+If you’re building:
+- An AI-enabled product or internal tool  
+- An MVP that needs strong product foundations  
+- A system that’s starting to feel fragile as it grows  
+
+I’m open to **freelance, contract, or product consulting** engagements.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/durgeshparekh  
+- Twitter/X: https://x.com/DurgeshParekh  
+
+---
+
+## 📊 GitHub Stats
+
+![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgeshparekh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshparekh&layout=compact&theme=radical)
