@@ -61,5 +61,6 @@ I’m open to **freelance, contract, or product consulting** engagements.
 
 ## 📊 GitHub Stats
 
-![Durgesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=durgeshparekh&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=durgeshparekh&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshparekh&layout=compact&theme=radical)
