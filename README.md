@@ -1,4 +1,4 @@
-💫 About Me
+**💫 About Me**
 
 Hi, I’m Durgesh Parekh — a Product Engineer & AI-focused Tech Consultant helping founders turn ideas into scalable, production-ready products.
 
@@ -10,7 +10,7 @@ If you’re a founder looking for someone who can think product, design systems,
 
 ⸻
 
-🧠 What I Help Founders With
+**🧠 What I Help Founders With**
 	•	AI-powered MVPs & product prototyping
 	•	Turning vague ideas into clear user flows & features
 	•	Backend systems for AI workflows (APIs, jobs, data pipelines)
@@ -19,7 +19,7 @@ If you’re a founder looking for someone who can think product, design systems,
 
 ⸻
 
-🧑‍💻 Technical Expertise
+**🧑‍💻 Technical Expertise**
 
 Product & AI Engineering
 	•	AI feature integration (LLM-based workflows, automation, internal tools)
@@ -36,21 +36,21 @@ Tech Stack
 
 ⸻
 
-🌟 Beyond Work
+**🌟 Beyond Work**
 	•	Exploring AI products and startup use-cases
 	•	Learning how founders make product trade-offs under constraints
 	•	Travel, tech discussions, and building things that last
 
 ⸻
 
-📫 Work With Me
+**📫 Work With Me**
 
 If you’re:
 	•	Building an AI-first or AI-assisted product
 	•	Looking for a freelance/contract Product Engineer
 	•	A founder who wants a hands-on technical partner
 
-Feel free to reach out 👇
+**Feel free to reach out 👇**
 • LinkedIn: https://www.linkedin.com/in/durgesh-parekh/￼ 
 • Twitter/X: https://x.com/DurgeshParekh
 ⸻
